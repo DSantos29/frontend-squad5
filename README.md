@@ -23,9 +23,9 @@ O Alô Comunidade trata-se de um portal de notícias da Zona Norte carioca, prin
  ## 🧑💻 EQUIPE
 ---
 ⌨️ com 💖 por:<br>
-               Rayssa 😊
-               <br>  Kaio  😊
-               <br> Danilo 😊
-               <br> Anderson 😊
-               <br> Robson  😊   
-               <br> Martha  😊   
+Rayssa 😊
+<br>  Kaio  😊
+<br> Danilo 😊
+<br> Anderson 😊
+<br> Robson  😊   
+<br> Martha  😊   
